@@ -33,6 +33,6 @@ function init() {
     var marker = new google.maps.Marker({
         position: myLatlng,
         map: map,
-        title:"Your Company Name"
+        title:"Technically Miss P."
     });
 }
